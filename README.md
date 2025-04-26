@@ -1,4 +1,4 @@
-Hi, I'm Shailender Thakur
+Hi, I'm Shailender Singh
 With over 20 years of experience in the IT industry, I’ve had the privilege of working across the full Software Development Life Cycle (SDLC) — from ideation to delivery, in diverse domains including mortgage, media, sports, e-commerce, and social platforms.
 
 My strengths lie in understanding business needs, translating them into scalable architecture, and building systems that are resilient, maintainable, and future-ready. Whether it's Java backends, microservices, modern UIs, or cloud-native platforms, I deliver with a focus on quality, performance, and business value.
@@ -105,11 +105,11 @@ Swami Ramanand Teerth Marathwada University (SRTMU), Nanded, Maharashtra, India
 📅 1998–2002
 
 📫 Contact Info
-👤 Name: Shailender Thakur
-📧 Email: [Add your email here]
-🔗 LinkedIn: [Add your LinkedIn URL here]
-💻 GitHub: [Add your GitHub link here]
-🌐 Portfolio: [Optional personal website]
+👤 Name: Shailender Singh
+📧 Email: shailendertk@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/shailendertk/
+💻 GitHub: https://github.com/shaitha9
+🌐 Portfolio: https://shaitha9.github.io/portfolio/
 
 🚀 Let’s Connect & Build!
 If you're looking for someone who can transform ideas into scalable solutions, navigate complex integrations, and bring strategic value to tech initiatives, let’s talk! Always open to exciting opportunities, collaborations, and deep tech chats. 🤝💡
