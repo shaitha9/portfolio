@@ -20,14 +20,15 @@ My strengths lie in understanding business needs, translating them into scalable
 🛡️ Focus on Security, Compliance, and High Availability
 
 💼 Professional Experience <br />
+
 Tavant Technologies Inc. <br />
 📍 October 2006 – Present <br />
-Roles Held: Technical Architect | Tech Lead | Senior Software Engineer
+Roles Held: Technical Architect | Technical Lead | Senior Software Engineer
 
-I've been fortunate to lead and contribute to high-impact, enterprise-scale projects for Fortune 500 companies, delivering value across multiple verticals. Below are some major engagements and innovations I've been part of:
+I've been fortunate to lead and contribute to high-impact, enterprise-scale projects for Fortune 500 companies, delivering value across multiple verticals. Below are some major engagements and innovations I've been part of: 
 
 🔹 Freedom Mortgage – Portal Redesign <br />
-Role: Technical Architect <br />
+Role: Technical Lead / Architect <br />
 Tech Stack: Java, Spring Boot, AWS Lambda, SQS, Step Functions, Redis, Tomcat
 
 📈 Impact: Boosted completion rates on refinance applications by over 30%.
@@ -35,7 +36,7 @@ Tech Stack: Java, Spring Boot, AWS Lambda, SQS, Step Functions, Redis, Tomcat
 🛠️ I spearheaded the complete overhaul of Freedom Mortgage’s refinance portal. This involved deep collaboration with product teams, UI/UX designers, and operations. I led a serverless re-architecture on AWS, ensuring auto-scaling, cost efficiency, and fast response times. We designed intuitive REST APIs, modernized the frontend, and reduced infrastructure complexity through microservices and event-driven design using SQS and Step Functions.
 
 🔹 Comcast – X1 Answers (X1 TV App) <br />
-Role: Technical Architect <br />
+Role: Technical Lead / Architect <br />
 Tech Stack: Java, Spring Boot, Akka, AngularJS, Redis, AWS, Docker
 
 📺 Impact: Transformed passive viewing into interactive engagement for 20M+ users.
@@ -90,6 +91,7 @@ Tech Stack: Java, Struts, EJB
 Developed and maintained a comprehensive vendor and appraisal management platform, handling thousands of appraisal orders, reviews, and compliance checks daily. Focused on reducing SLA breaches and introduced detailed audit trails.
 
 🧰 Technical Skills <br />
+
 Languages: Java, Groovy, Scala <br />
 Frameworks: Spring Boot, Hibernate, Struts, Flex2, JPA <br />
 Frontend: Angular, Vaadin, TypeScript, JavaScript, HTML/CSS <br />
@@ -101,11 +103,13 @@ DevOps: Docker, Maven, Jenkins, TeamCity, Hadoop, Akka <br />
 Tools: Git, SVN, JIRA, Confluence, Postman <br />
 
 🎓 Education <br />
+
 🎓 Bachelor of Engineering (Computer Science) <br />
 Swami Ramanand Teerth Marathwada University (SRTMU), Nanded, Maharashtra, India
 📅 1998–2002
 
 📫 Contact Info <br />
+
 👤 Name: Shailender Singh <br />
 📧 Email: shailendertk@gmail.com <br />
 🔗 LinkedIn: https://www.linkedin.com/in/shailendertk/ <br />
