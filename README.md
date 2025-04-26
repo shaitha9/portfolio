@@ -4,6 +4,7 @@ With over 20 years of experience in the IT industry, I’ve had the privilege of
 My strengths lie in understanding business needs, translating them into scalable architecture, and building systems that are resilient, maintainable, and future-ready. Whether it's Java backends, microservices, modern UIs, or cloud-native platforms, I deliver with a focus on quality, performance, and business value.
 
 🧠 Core Competencies <br />
+
 ✅ End-to-End SDLC Ownership — from Requirements Gathering to Production Support
 
 🧱 Scalable Architecture & Design for B2B and B2C systems
