@@ -22,8 +22,12 @@ My strengths lie in understanding business needs, translating them into scalable
 💼 Professional Experience <br />
 
 Tavant Technologies Inc. <br />
-📍 October 2006 – Present <br />
-Roles Held: Technical Architect | Technical Lead | Senior Software Engineer
+📍 2006 – Present <br />
+Roles Held: Technical Lead | Technical Architect 
+
+Tavant Technologies India Pvt Ltd. <br />
+📍 2004 – 2006 <br />
+Roles Held: Senior Software Engineer | Technical Lead
 
 I've been fortunate to lead and contribute to high-impact, enterprise-scale projects for Fortune 500 companies, delivering value across multiple verticals. Below are some major engagements and innovations I've been part of: 
 
@@ -105,7 +109,7 @@ Tools: Git, SVN, JIRA, Confluence, Postman <br />
 🎓 Education <br />
 
 🎓 Bachelor of Engineering (Computer Science) <br />
-Swami Ramanand Teerth Marathwada University (SRTMU), Nanded, Maharashtra, India
+Swami Ramanand Teerth Marathwada University (SRTMU), Nanded, Maharashtra, India <br />
 📅 1998–2002
 
 📫 Contact Info <br />
