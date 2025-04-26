@@ -105,11 +105,11 @@ Swami Ramanand Teerth Marathwada University (SRTMU), Nanded, Maharashtra, India
 📅 1998–2002
 
 📫 Contact Info
-👤 Name: Shailender Singh
-📧 Email: shailendertk@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/shailendertk/
-💻 GitHub: https://github.com/shaitha9
-🌐 Portfolio: https://shaitha9.github.io/portfolio/
+👤 Name: Shailender Singh <br />
+📧 Email: shailendertk@gmail.com <br />
+🔗 LinkedIn: https://www.linkedin.com/in/shailendertk/ <br />
+💻 GitHub: https://github.com/shaitha9 <br />
+🌐 Portfolio: https://shaitha9.github.io/portfolio <br />
 
 🚀 Let’s Connect & Build!
 If you're looking for someone who can transform ideas into scalable solutions, navigate complex integrations, and bring strategic value to tech initiatives, let’s talk! Always open to exciting opportunities, collaborations, and deep tech chats. 🤝💡
